@@ -59,7 +59,8 @@ Certain item categories had high visibility but lower sales conversion.
 
 Dashboard Preview:
 
-<img width="1330" height="744" alt="image" src="https://github.com/user-attachments/assets/17ff16a6-5d7d-4be0-8a68-bf09187ead0f" />
+<img width="1347" height="749" alt="image" src="https://github.com/user-attachments/assets/e6021f73-23dd-4148-a94b-c3b56c426c07" />
+
 
 
 
